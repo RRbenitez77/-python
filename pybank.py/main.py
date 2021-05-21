@@ -49,7 +49,7 @@ with open(budget_data, 'r') as csv_file_1:
     #print (f"Greatest Decrease in Profits: {total_months[max_decrease_month]} (${(int(max_decrease_value))})")
 
 #Output files
-output_file =path("resources," "Financial_Analysis.txt")
+output_file =os.path("resources," "Financial_Analysis.txt")
 
 with open(output_file,"w") as file: 
     file.write("Financial Analysis")
