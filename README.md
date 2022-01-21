@@ -1,17 +1,6 @@
-# Python Practice
+# Python Practice![Screen Shot 2022-01-20 at 9 15 20 PM](https://user-images.githubusercontent.com/33403205/150454006-79af1b66-97bd-42c8-903c-58ce5a8adec4.png)
+
 ## 
-
-**PyBank** and  **PyPoll**.
-
-* Inside of each folder that you just created, add the following:
-
-  * A new file called `main.py`. This will be the main script to run for each analysis.
-  * A "Resources" folder that contains the CSV files you used. Make sure your script has the correct path to the CSV file.
-  * An "analysis" folder that contains your text file that has the results from your analysis.
-
-* Push the above changes to GitHub or GitLab.
-
-## PyBank
 
 ![Revenue](Images/revenue-per-lead.png)
 
@@ -32,7 +21,8 @@
 * As an example, your analysis should look similar to the one below:
 
   ```text
-  Financial Analysis
+  Financial Analysis![Screen Shot 2022-01-20 at 9 13 59 PM](https://user-images.githubusercontent.com/33403205/150453986-cb1ae95a-4fba-4ab8-ab33-ba929ff2d91d.png)
+
   ----------------------------
   Total Months: 86
   Total: $38382578
@@ -43,7 +33,9 @@
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-## PyPoll
+## PyPoll![Screen Shot 2022-01-20 at 9 04 50 PM](https://user-images.githubusercontent.com/33403205/150454022-baf26b90-16cb-4f28-bcdd-443514a2f338.png)
+![Screen Shot 2022-01-20 at 9 04 53 PM](https://user-images.githubusercontent.com/33403205/150454025-8ba770b2-53d4-4584-8c3f-f694aee9ca03.png)
+
 
 ![Vote Counting](Images/Vote_counting.png)
 
