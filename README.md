@@ -28,7 +28,7 @@
 ![Screen Shot 2022-01-20 at 9 04 53 PM](https://user-images.githubusercontent.com/33403205/150454025-8ba770b2-53d4-4584-8c3f-f694aee9ca03.png)
 
 
-![Vote Counting](Images/Vote_counting.png)
+(Images/Vote_counting.png)
 
 
 
