@@ -17,7 +17,7 @@
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-* As an example, your analysis should look similar to the one below:
+
 
 
   ```![Screen Shot 2022-01-20 at 9 04 50 PM](https://user-images.githubusercontent.com/33403205/150455068-65289266-d056-432a-96a5-9b3e689610cc.png)
