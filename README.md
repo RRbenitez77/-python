@@ -1,6 +1,7 @@
 # Python Practice![Screen Shot 2022-01-20 at 9 15 20 PM](https://user-images.githubusercontent.com/33403205/150454006-79af1b66-97bd-42c8-903c-58ce5a8adec4.png)
 
-## 
+## ![Screen Shot 2022-01-20 at 9 15 20 PM](https://user-images.githubusercontent.com/33403205/150455187-e148a470-1898-4c50-b365-842ab81e1fe2.png)
+
 
 ![Revenue](Images/revenue-per-lead.png)
 
