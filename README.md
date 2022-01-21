@@ -20,7 +20,9 @@
 * As an example, your analysis should look similar to the one below:
 
 
-  ```
+  ```![Screen Shot 2022-01-20 at 9 04 50 PM](https://user-images.githubusercontent.com/33403205/150455068-65289266-d056-432a-96a5-9b3e689610cc.png)
+![Screen Shot 2022-01-20 at 9 04 53 PM](https://user-images.githubusercontent.com/33403205/150455082-5af172f6-5e9d-4028-bdcf-c1b9a27b800b.png)
+
 
 
 
